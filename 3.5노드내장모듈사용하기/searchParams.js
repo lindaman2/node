@@ -21,6 +21,3 @@ console.log(myURL.searchParams.getAll('filter'));
 
 console.log('searchParams.toString():', myURL.searchParams.toString());
 myURL.search = myURL.searchParams.toString();
-
-//ddfdfdf
-
