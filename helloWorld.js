@@ -6,4 +6,4 @@ function helloNode() {
     console.log('Hello Node');
 }
 
-helloWorld();
+helloWorld(); // 흠....잘모르겟네
