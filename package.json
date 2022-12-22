@@ -1,0 +1,30 @@
+{
+  "name": "npmtest-5180523",
+  "version": "0.0.1",
+  "description": "hello package.json",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindaman2/node.git"
+  },
+  "author": "lindaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindaman2/node/issues"
+  },
+  "homepage": "https://github.com/lindaman2/node#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "express-session": "^1.17.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
